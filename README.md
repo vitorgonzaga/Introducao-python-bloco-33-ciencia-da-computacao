@@ -1,7 +1,7 @@
 
-# Introdução Python :: Bloco 33 :: Ciência da Computação
+# Repositório dedicado ao módulo de Ciência da Computação na Trybe
 
-Repositório com primeiros passos na linguagem Python - Bloco 33 do módulo de ciência da computação na Trybe
+Bloco 33 - Introdução a Ciência da Computacao :: Python :: Entrada e Saída de Outputs :: Testes
 
 - Terminal Interativo;
 - Operações básicas;
@@ -11,6 +11,18 @@ Repositório com primeiros passos na linguagem Python - Bloco 33 do módulo de c
 - Manipulação de arquivos(Json e CSV);
 - Lidando com exceções;
 - Testes com pytest.
+
+
+Bloco 34 - Introdução à programação orientada a objetos :: Herança, Composição e Interfaces :: Padrões de Projetos
+
+- Criação de entidades (Pilares da POO - Abstração e Encapsulamento);
+- Herança - Especialização de comportamentos;
+- Classes Abstratas;
+- Interfaces;
+- Composição - Classes feitas de outras classes
+- Métodos de Classe, Métodos Estáticos e Métodos de Instancia;
+- Composição versus Herança
+- Os quatro pilares da Programação Orientada a Objetos
 
 
 ## 🔗 Links
