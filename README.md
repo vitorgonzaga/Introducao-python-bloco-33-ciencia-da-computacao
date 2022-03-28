@@ -1,7 +1,7 @@
 
 # Introdução Python :: Bloco 33 :: Ciência da Computação
 
-Repositório com primeiros passos na linguagem Python - Bloco 33 do módulo de ciência da computação na Tryber
+Repositório com primeiros passos na linguagem Python - Bloco 33 do módulo de ciência da computação na Trybe
 
 - Terminal Interativo;
 - Operações básicas;
